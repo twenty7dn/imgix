@@ -1,0 +1,7 @@
+{
+    "require": {
+        "imgix/imgix-php": "^3.3",
+        "raiym/instagram-php-scraper": "^0.12.0",
+        "phpfastcache/phpfastcache": "^8.0"
+    }
+}

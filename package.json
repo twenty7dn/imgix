@@ -1,0 +1,18 @@
+{
+  "name": "davidmc-imgix",
+  "description": "Renders images via the Imgix CDN.",
+  "main": "none",
+  "scripts": {
+    "push": "git add . && git commit -m 'Update' && git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmatthewcoleman/imgix.git"
+  },
+  "author": "David M. Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmatthewcoleman/imgix/issues"
+  },
+  "homepage": "https://github.com/davidmatthewcoleman/imgix#readme"
+}
